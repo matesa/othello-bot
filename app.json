@@ -1,8 +1,7 @@
 {
   "name": "othello",
   "description": "otella ROBOT GRUBUNUZDA ÜYELERI ETIKETLEYE BILIR.",
-  "env"
-"repository": "https://github.com/matesa/GoodVibesSong": {
+  "env": {
     "OTHELLO_TOKEN": {
       "description": "@botfather dan alın(Gerekli)",
       "value": ""
